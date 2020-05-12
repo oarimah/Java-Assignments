@@ -1,0 +1,87 @@
+Script started on 2020-04-01 21:52:15-04:00 [TERM="xterm" TTY="/dev/pts/44" COLUMNS="157" LINES="44"]
+bash-5.0$ who am i
+oarimah  pts/21       2020-04-01 21:52
+bash-5.0$ date
+Wed 01 Apr 2020 09:52:20 PM EDT
+bash-5.0$ pwd
+/home/oarimah/Courses/CS3340B/ASN3
+bash-5.0$ ./asn3.sh <infile.txt
+Note: MST.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+
+
+
+-------------------------------------------------------------
+A Print Of The Adjacency List From Input Graph
+-------------------------------------------------------------
+Edges are represented as : 'u-v', 'u=startNode-v=endNode' 
+-------------------------------------------------------------
+
+
+Edge: 6-13 and Edge's Weight: 52
+Edge: 8-16 and Edge's Weight: 80
+Edge: 6-12 and Edge's Weight: 60
+Edge: 8-17 and Edge's Weight: 68
+Edge: 8-13 and Edge's Weight: 24
+Edge: 19-20 and Edge's Weight: 5
+Edge: 6-11 and Edge's Weight: 18
+Edge: 1-2 and Edge's Weight: 12
+Edge: 1-3 and Edge's Weight: 10
+Edge: 2-4 and Edge's Weight: 20
+Edge: 2-5 and Edge's Weight: 20
+Edge: 1-6 and Edge's Weight: 3
+Edge: 10-15 and Edge's Weight: 30
+Edge: 3-6 and Edge's Weight: 30
+Edge: 2-7 and Edge's Weight: 6
+Edge: 3-7 and Edge's Weight: 28
+Edge: 3-8 and Edge's Weight: 9
+Edge: 4-8 and Edge's Weight: 40
+Edge: 4-9 and Edge's Weight: 36
+Edge: 5-11 and Edge's Weight: 44
+Edge: 7-14 and Edge's Weight: 70
+Edge: 9-18 and Edge's Weight: 95
+Edge: 17-18 and Edge's Weight: 5
+Edge: 7-15 and Edge's Weight: 50
+Edge: 13-14 and Edge's Weight: 5
+Edge: 10-20 and Edge's Weight: 100
+Edge: 9-19 and Edge's Weight: 76
+Edge: 11-12 and Edge's Weight: 5
+Edge: 9-14 and Edge's Weight: 27
+Edge: 7-12 and Edge's Weight: 21
+Edge: 5-10 and Edge's Weight: 50
+Edge: 11-16 and Edge's Weight: 33
+
+-------------------------------------------------------------
+Edges and Their Weights: Minimum Spanning Tree 
+-------------------------------------------------------------
+Edges are represented as : 'u-v', 'u=startNode-v=endNode' 
+-------------------------------------------------------------
+
+Edge: 1-2 and Edge's Weight: 12
+Edge: 3-8 and Edge's Weight: 9
+Edge: 2-4 and Edge's Weight: 20
+Edge: 2-5 and Edge's Weight: 20
+Edge: 1-6 and Edge's Weight: 3
+Edge: 2-7 and Edge's Weight: 6
+Edge: 3-8 and Edge's Weight: 9
+Edge: 4-9 and Edge's Weight: 36
+Edge: 10-15 and Edge's Weight: 30
+Edge: 6-11 and Edge's Weight: 18
+Edge: 11-12 and Edge's Weight: 5
+Edge: 8-13 and Edge's Weight: 24
+Edge: 13-14 and Edge's Weight: 5
+Edge: 10-15 and Edge's Weight: 30
+Edge: 11-16 and Edge's Weight: 33
+Edge: 8-17 and Edge's Weight: 68
+Edge: 17-18 and Edge's Weight: 5
+Edge: 9-19 and Edge's Weight: 76
+Edge: 19-20 and Edge's Weight: 5
+
+-------------------------------------------------------------
+Output Finished: Ositadinma Arimah
+-------------------------------------------------------------
+bash-5.0$ exit
+exit
+
+Script done on 2020-04-01 21:52:42-04:00 [COMMAND_EXIT_CODE="0"]
